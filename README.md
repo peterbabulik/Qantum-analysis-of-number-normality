@@ -46,7 +46,9 @@ Error correction performance graphs
 Statistical analysis of quantum state interactions
 
 
+
 Potential Applications:
+```
 Number theory research
 
 Quantum machine learning
@@ -54,3 +56,4 @@ Quantum machine learning
 Statistical analysis of mathematical constants
 
 Quantum error correction studies
+```
