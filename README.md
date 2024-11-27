@@ -7,9 +7,13 @@ A sophisticated quantum computing approach to analyzing the normality of mathema
 Features:
 
 Quantum Kernel System: Implements advanced quantum state manipulation and kernel computation
+
 Error Detection and Correction: Integrates stabilizer codes for quantum error management
+
 Normality Analysis: Quantifies number normality using quantum computational techniques
+
 Visualization: Provides comprehensive visualizations of kernel matrices and error correction performance
+
 Key Components
 QuantumKernelSystem: Core class implementing quantum kernel computations
 Error detection circuit using stabilizer measurements
