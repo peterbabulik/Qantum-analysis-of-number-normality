@@ -23,8 +23,11 @@ Mathematical Constants Analysis
 The project focuses on analyzing the normality of fundamental mathematical constants like π and e by:
 
 Transforming digit sequences to quantum states
+
 Computing quantum kernel matrices
+
 Generating normality scores
+
 Visualizing quantum state interactions
 
 Requirements: 
