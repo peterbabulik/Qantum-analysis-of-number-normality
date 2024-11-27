@@ -22,6 +22,7 @@ Transforming digit sequences to quantum states
 Computing quantum kernel matrices
 Generating normality scores
 Visualizing quantum state interactions
+
 Requirements: 
 ```
 cirq
